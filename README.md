@@ -48,7 +48,7 @@ Pixel-Perfect Design Not Required:
 While the interface is user-friendly and visually coherent, the project did not require a pixel-perfect design approach. The focus remained on functionality, code quality, and the application of modern React development principles. 
 
 
-For an example of my capabilities in advanced styling, you may view my recent personal project https://www.app.lwayz.com.
+For an example of my capabilities in advanced styling, you may view my recent personal project https://app.lwayz.com.
 
 
 ## Available Scripts
