@@ -1,10 +1,10 @@
-Project Overview:
+# Project Overview:
 
 Developed an advanced, interactive data management application using Mantine's React table component, enhanced with JSX for dynamic content rendering. This project showcases a robust implementation of a data table, leveraging React's powerful ecosystem.
 
-Key Features and Technologies:
+## Key Features and Technologies:
 
-Mantine Table with JSX:
+### Mantine Table with JSX:
 
 Utilized Mantine's React table component for an intuitive and responsive user interface. Custom JSX was incorporated for dynamic content rendering, enabling interactive and visually appealing tables.
 
@@ -12,31 +12,31 @@ Reusable Components and Data Structure:
 
 Crafted a scalable architecture where both tabs of the application utilize the same table component and data object. This approach ensures consistency and reduces code duplication, enhancing maintainability.
 
-Channel Management:
+### Channel Management:
 
 Implemented a feature to add new channels, offering extended functionality. Users can seamlessly integrate new data entries, showcasing the application's adaptability and user-centric design.
 
-Advanced Table Functionality:
+### Advanced Table Functionality:
 
 Integrated several advanced features such as dynamic column generation based on data structure, and conditional rendering. These elements contribute to a sophisticated user experience, catering to complex data visualization needs.
 
-State Management with Redux:
+### State Management with Redux:
 
 Leveraged Redux for global state management, ensuring a centralized and efficient handling of the application’s state. This implementation allows for scalable and predictable state updates across the application.
 
-TypeScript Integration:
+### TypeScript Integration:
 
 Utilized TypeScript for strong typing and enhanced code reliability. TypeScript's capabilities were harnessed to ensure type safety and reduce runtime errors, leading to a more robust application.
 
-Global Variables and Styling:
+### Global Variables and Styling:
 
 Implemented global variables for consistent styling across the application, particularly for text colors. This approach promotes a cohesive look and feel, while simplifying the styling process.
 
-Extras and Bonuses:
+### Extras and Bonuses:
 
 Added advanced table features like custom cell rendering, search functionality, and interactive row actions (edit, delete). These extras demonstrate a commitment to delivering a comprehensive and user-friendly interface.
 
-Additional Notes:
+### Additional Notes:
 
 Focus on Best Practices and Advanced React Development:
 
@@ -50,9 +50,6 @@ While the interface is user-friendly and visually coherent, the project did not 
 
 For an example of my capabilities in advanced styling, you may view my recent personal project.
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -80,19 +77,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
