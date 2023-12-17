@@ -1,0 +1,21 @@
+$colorTitle: #182033;
+$colorPrimary: #2a3558;
+$colorSecondary: #99a4c2;
+
+.colorTitle {
+  color: $colorTitle
+}
+
+.colorPrimary {
+  color: $colorPrimary
+}
+
+.colorSecondary {
+  color: $colorSecondary
+}
+
+:export {
+  primaryColor: $colorPrimary;
+  secondaryColor: $colorSecondary;
+  colorTitle: $colorTitle;
+}
